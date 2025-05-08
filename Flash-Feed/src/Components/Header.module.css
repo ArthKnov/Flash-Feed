@@ -1,6 +1,10 @@
 .header {
-  background-color: #313030;
-  color: tomato;
-  padding: 10px;
-  text-align: center;
+  background: var(--gray-800);
+  display: flex;
+  justify-content: center;
+  padding: 1.25rem 0;
+}
+
+.header img {
+  height: 2rem;
 }
